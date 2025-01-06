@@ -1,6 +1,7 @@
 # Project Name
 https://excalidraw.com/#json=QNZhsFe8RgKYkuoa2FZcT,Rd2hHZOkXZJAZdYOyHQPIw
-## Installation
+## Installation![ColdMailAgent excalidraw](https://github.com/user-attachments/assets/1d7b63f1-03e0-460c-89a8-0b87e6e0554c)
+
 
 1. Clone the repository:
     ```sh
